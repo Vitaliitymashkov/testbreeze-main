@@ -1,0 +1,13 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Úà¦Ù
+A
+java:S2160"+Override the "equals" method in this class.(Îé§²
+1
+java:S2326"K is not used in the class.(Îé§²
+1
+java:S2326"V is not used in the class.(Îé§²
+U
+java:S1161#":Add the "@Override" annotation above this method signature(‡Ê¬±þÿÿÿÿ
+U
+java:S11613":Add the "@Override" annotation above this method signature(Þ‚ÄÔýÿÿÿÿ

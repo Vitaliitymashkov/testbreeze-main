@@ -1,0 +1,9 @@
+
+t
+java:S1192&"RDefine a constant instead of duplicating this literal "X-ACCEPTANCE-TEST" 3 times.(ü¢Ö¼þÿÿÿÿ8ó™È‘ã1
+ˆ
+java:S1319R"fThe type of "paramsMap" should be an interface such as "Map" rather than the implementation "HashMap".(ÂÖ©Åÿÿÿÿÿ8µžÈ‘ã1
+~
+java:S1128"\Remove this unused import 'com.symphonysolutions.common.services.api.bot.models.MessageDto'.(‡ÌŽ¶ùÿÿÿÿ8žúå‘ã1
+b
+java:S1128	"@Remove this unused import 'io.restassured.filter.log.LogDetail'.(«—š§ÿÿÿÿÿ8 úå‘ã1

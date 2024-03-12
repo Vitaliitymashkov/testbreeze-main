@@ -1,0 +1,15 @@
+# Intellij
+build
+*.iml
+*.iws
+*.ipr
+
+# Allure
+.allure
+
+# Maven
+log/
+target/
+
+#Local properties
+local-*.properties
